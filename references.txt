@@ -1,0 +1,22 @@
+Vizier tables used with X-match and Gaia DR2 to determine Cyg OB2 members and its astrometric properties.
+
+
+New massive members of Cygnus OB2 (Berlanas+, 2018) 
+http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/A%2bA/612/A50/tablea1
+J/A+A/612/A50/tablea1
+
+OB stars in Cygnus OB2 association (Comeron+, 2012)
+http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/A%2bA/543/A101/OBstars
+J/A+A/543/A101/OBstars
+
+Radial velocity survey of Cyg OB2 association (Kiminki+, 2007) 
+http://vizier.u-strasbg.fr/viz-bin/VizieR-2?-source=+J%2FApJ%2F664%2F1102%2Ftable2
+J/ApJ/664/1102/table2
+
+Astrophysical supplements to ASCC-2.5 (Kharchenko+, 2004) 
+http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/AN/325/740/csoca
+J/AN/325/740/csoca
+
+The massive star population of Cygnus OB2 (Wright+, 2015)
+http://vizier.cfa.harvard.edu/viz-bin/VizieR-3?-source=J/MNRAS/449/741/census
+J/MNRAS/449/741/census
